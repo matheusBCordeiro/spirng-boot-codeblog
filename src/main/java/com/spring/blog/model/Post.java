@@ -1,4 +1,4 @@
-package com.spring.codeblog.model;
+package com.spring.blog.model;
 
 import java.time.LocalDate;
 
